@@ -1,0 +1,15 @@
+{
+  "name": "pirple-node-masterclass-homework",
+  "version": "1.0.0",
+  "description": "This is a project to demonstrate the home assignments of the Pirple Node Master Class",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && npm run hello-world",
+    "hello-world": "node dist\\hello-world\\index.js"
+  },
+  "author": "Ajay Ambre",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  }
+}
